@@ -1,0 +1,18 @@
+{
+  "name": "devmohd-error-handler-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@datadog/datadog-api-client": "^1.28.0",
+    "@sentry/node": "^8.32.0",
+    "dotenv": "^16.4.5",
+    "winston": "^3.14.2"
+  }
+}
